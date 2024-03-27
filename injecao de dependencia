@@ -1,0 +1,1 @@
+De acordo com a pesquisa efetuada, injeção de dependencia é uma técnica onde podemos de forma manual ou com a ajuda de um framework, deixar a dependência de uma classe independente da própria classe, deixando o código mais fácil para efetuar manutenção, testes e podendo reutilizar o código orientado a objeto, ocorrendo o desacoplamento do código.
